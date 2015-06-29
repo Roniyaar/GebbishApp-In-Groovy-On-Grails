@@ -1,2 +1,2 @@
-# GebbishApp-In-Groovy-On-Grails
+#Use of geb in grails.
 Use of geb in grails. 
